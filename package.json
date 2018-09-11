@@ -51,6 +51,6 @@
     "plugin"
   ],
   "dependencies": {
-    "harp": "~0.20.1"
+    "harp": "^0.27.0"
   }
 }
